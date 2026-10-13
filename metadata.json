@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon: Fuel Rush 3D",
+  "description": "High-octane 3D car driving game with realistic vehicle physics, tactical fuel management, minimap GPS navigation, and checkpoint race stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
